@@ -1,26 +1,26 @@
 [
   {
-    "Subject": "None",
-    "Amount": 20
+    "category": "None",
+    "value": 20
   },
   {
-    "Subject": "French only",
-    "Amount": 15
+    "category": "French only",
+    "value": 15
   },
   {
-    "Subject": "German only",
-    "Amount": 10
+    "category": "German only",
+    "value": 10
   },
   {
-    "Subject": "Spanish only",
-    "Amount": 30
+    "category": "Spanish only",
+    "value": 30
   },
   {
-    "Subject": "One other language",
-    "Amount": 15
+    "category": "One other language",
+    "value": 15
   },
   {
-    "Subject": "Two other languages",
-    "Amount": 10
+    "category": "Two other languages",
+    "value": 10
   }
 ]
