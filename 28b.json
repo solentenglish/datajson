@@ -1,0 +1,26 @@
+[
+  {
+    "Subject": "None",
+    "Amount": 10
+  },
+  {
+    "Subject": "French only",
+    "Amount": 10
+  },
+  {
+    "Subject": "German only",
+    "Amount": 10
+  },
+  {
+    "Subject": "Spanish only",
+    "Amount": 35
+  },
+  {
+    "Subject": "One other language",
+    "Amount": 20
+  },
+  {
+    "Subject": "Two other languages",
+    "Amount": 15
+  }
+]
