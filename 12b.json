@@ -1,0 +1,8 @@
+[
+  {"category": "Water heating","value": 32},
+  {"category": "Refrigeration","value": 14},
+  {"category": "Other appliances","value": 28},
+  {"category": "Lighting","value": 8},
+  {"category": "Cooling","value": 3},
+  {"category": "Heating","value": 15}
+]
