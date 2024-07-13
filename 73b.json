@@ -1,5 +1,5 @@
 [
-        {"Subject": "Programme services", "Amount": 95.8},
-        {"Subject": "Fundraising", "Amount": 2.6},
-        {"Subject": "Management and general", "Amount": 1.6}
+        {"category": "Programme services", "value": 95.8},
+        {"category": "Fundraising", "value": 2.6},
+        {"category": "Management and general", "value": 1.6}
 ]
