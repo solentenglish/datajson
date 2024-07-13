@@ -1,8 +1,8 @@
 [
-        {"Subject": "Donated food", "Amount": 85.6},
-        {"Subject": "Community contributions", "Amount": 8.4},
-        {"Subject": "Program revenue", "Amount": 2.2},
-        {"Subject": "Investment income", "Amount": 1.2},
-        {"Subject": "Government grants", "Amount": 1.2},
-        {"Subject": "Other income", "Amount": 1.4}
+        {"category": "Donated food", "value": 85.6},
+        {"category": "Community contributions", "value": 8.4},
+        {"category": "Program revenue", "value": 2.2},
+        {"category": "Investment income", "value": 1.2},
+        {"category": "Government grants", "value": 1.2},
+        {"category": "Other income", "value": 1.4}
 ]
