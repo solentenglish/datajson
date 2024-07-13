@@ -1,0 +1,7 @@
+[
+    {"year": "1983", "value": 18, "category": "Spain"}, {"year": "1983", "value": 82, "category": "France"}, {"year": "1983", "value": 102, "category": "Italy"},{"year": "1983", "value": 41, "category": "Germany"},
+    {"year": "1993", "value": 21, "category": "Spain"}, {"year": "1993", "value": 91, "category": "France"}, {"year": "1993", "value": 107, "category": "Italy"},{"year": "1993", "value": 61, "category": "Germany"},
+    {"year": "2003", "value": 26, "category": "Spain"}, {"year": "2003", "value": 68, "category": "France"}, {"year": "2003", "value": 100, "category": "Italy"},{"year": "2003", "value": 65, "category": "Germany"},
+    {"year": "2013", "value": 45, "category": "Spain"}, {"year": "2013", "value": 60, "category": "France"}, {"year": "2013", "value": 95, "category": "Italy"},{"year": "2013", "value": 76, "category": "Germany"},
+    {"year": "2023", "value": 47, "category": "Spain"}, {"year": "2023", "value": 47, "category": "France"}, {"year": "2023", "value": 85, "category": "Italy"},{"year": "2023", "value": 76, "category": "Germany"}
+]
