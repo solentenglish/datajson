@@ -1,0 +1,25 @@
+[
+      {"column": "1", "row": "1", "region": "North America", "use": "Industrial Use", "percentage": 48},
+      {"column": "1", "row": "1", "region": "North America", "use": "Agricultural Use", "percentage": 39},
+      {"column": "1", "row": "1", "region": "North America", "use": "Domestic Use", "percentage": 13},
+
+      {"column": "1", "row": "2", "region": "South America", "use": "Industrial Use", "percentage": 10},
+      {"column": "1", "row": "2", "region": "South America", "use": "Agricultural Use", "percentage": 71},
+      {"column": "1", "row": "2", "region": "South America", "use": "Domestic Use", "percentage": 19},
+
+      {"column": "1", "row": "3", "region": "Europe", "use": "Industrial Use", "percentage": 53},
+      {"column": "1", "row": "3", "region": "Europe", "use": "Agricultural Use", "percentage": 32},
+      {"column": "1", "row": "3", "region": "Europe", "use": "Domestic Use", "percentage": 15},
+
+      {"column": "2", "row": "1", "region": "Africa", "use": "Industrial Use", "percentage": 7},
+      {"column": "2", "row": "1", "region": "Africa", "use": "Agricultural Use", "percentage": 84},
+      {"column": "2", "row": "1", "region": "Africa", "use": "Domestic Use", "percentage": 9},
+
+      {"column": "2", "row": "2", "region": "Central Asia", "use": "Industrial Use", "percentage": 5},
+      {"column": "2", "row": "2", "region": "Central Asia", "use": "Agricultural Use", "percentage": 88},
+      {"column": "2", "row": "2", "region": "Central Asia", "use": "Domestic Use", "percentage": 7},
+
+      {"column": "2", "row": "3", "region": "South East Asia", "use": "Industrial Use", "percentage": 12},
+      {"column": "2", "row": "3", "region": "South East Asia", "use": "Agricultural Use", "percentage": 81},
+      {"column": "2", "row": "3", "region": "South East Asia", "use": "Domestic Use", "percentage": 7}
+    ]
